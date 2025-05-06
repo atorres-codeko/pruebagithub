@@ -1,1 +1,3 @@
 Conflicto solucionado
+Linea añadida despues de haber solucionado el conflicto
+Otra linea añadida tras la revision del PR
